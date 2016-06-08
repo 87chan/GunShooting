@@ -9,8 +9,8 @@
 void AMyPlayerController::BeginPlay()
 {
 	// デバッグ表示.
-	ConsoleCommand("stat fps", true);
-	ConsoleCommand("stat unit", true);
+	//ConsoleCommand("stat fps", true);
+	//ConsoleCommand("stat unit", true);
 }
 
 /**********************************************************
